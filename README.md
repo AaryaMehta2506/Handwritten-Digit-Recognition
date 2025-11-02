@@ -19,6 +19,7 @@ The project is designed to provide an end-to-end workflow including:
 ## Dataset
 We did not download or use an external dataset manually.  
 Instead, we used the **MNIST dataset** that comes preloaded with the `tensorflow.keras.datasets` module.
+http://yann.lecun.com/exdb/mnist/
 
 The dataset is automatically fetched from Keras during runtime, containing:
 60,000 training images
